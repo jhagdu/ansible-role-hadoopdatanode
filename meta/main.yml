@@ -1,5 +1,5 @@
 galaxy_info:
-  role_name: HadoopDataNode
+  role_name: hadoopdatanode
   author: Aman Jhagrolia
   description: To configure Hadoop Data Node
   company: CyberSpace
